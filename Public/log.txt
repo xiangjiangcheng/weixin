@@ -1,0 +1,7 @@
+2017-08-11 15:29:54 >>> <xml>
+                        <ToUserName><![CDATA[ovCrOv4PP9W1fA5tosyRJQxJBTVM]]></ToUserName>
+                        <FromUserName><![CDATA[gh_3408dd747ce4]]></FromUserName>
+                        <CreateTime>1502436594</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[欢迎关注我们的微信公众账号ovCrOv4PP9W1fA5tosyRJQxJBTVM]]></Content>
+                        </xml>
